@@ -1,13 +1,12 @@
 #include <stdio.h>
-
 /**
-*main - Print my style
+*main - Printmy style
 *
 *Return: Always 0 (successful)
 */
 int main(void)
 {
-print("with proper grammar,but the outcome is a piece of art, \n");
+printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
 }
 
