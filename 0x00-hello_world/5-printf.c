@@ -3,7 +3,7 @@
 /**
  *main - Print my style
  *
- *Return:Always o (successful)
+ *Return: Always o (successful)
  */
 int main(void)
 {
