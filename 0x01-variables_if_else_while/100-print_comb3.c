@@ -1,4 +1,3 @@
-10
 #include <stdio.h>
 
 /**
