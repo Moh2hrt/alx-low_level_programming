@@ -2,7 +2,8 @@
 
 /**
 *_putchar - writes the character c to stdout
-*@: thw character to print                            *Return: on success
+*@c: thw character to print
+*Return: on success
 *on error, -1 is returned, ans error is set appropriately
 */
 
