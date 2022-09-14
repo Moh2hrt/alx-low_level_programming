@@ -1,20 +1,16 @@
-#include "main.h"
-/**
-* main - check the code.
-*
-* Return: Always 0.
-*/
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
-int main(void)
+/**
+* main - Entry point
+*
+* Return: Always success
+*/
+Int main(void)
 {
-	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
-	(_putchar '\n');
-	return (0);
+
+_putchar("_putchar\n");
+
+return (0);
 }
