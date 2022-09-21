@@ -8,7 +8,7 @@
  * - only one statement
  * - you are not allowed to code anything else than this line of code
  */
-int main(void)
+int main:
 {
 	int n;
 	int a[5];
