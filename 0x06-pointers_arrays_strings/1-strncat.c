@@ -24,3 +24,7 @@ char *_strncat(char *dest, char *src, int n)
 	dest[i + j] = '\0';
 	return (dest);
 }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+
